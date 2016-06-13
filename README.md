@@ -1,2 +1,2 @@
 # iPy
-Yaaaaaa iPy notebooks.
+iPy notebooks for protein-protein complex analysis coming soon...
